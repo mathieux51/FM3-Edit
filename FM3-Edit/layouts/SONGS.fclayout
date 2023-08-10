@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FC-Layouts version="2" deviceId="17" deviceMajor="6" deviceMinor="2">
+  <FC-Layout valid="1" name="SONGS">
+    <Switch>
+      <tap valid="1" category="13" function="2" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="-1"/>
+        <param value="1"/>
+        <param value="1"/>
+        <param value="6"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="12" function="2" displayFunc="0" displayCustom="">
+        <param value="-1"/>
+        <param value="0"/>
+        <param value="1"/>
+        <param value="32"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="12" function="2" displayFunc="3" displayCustom=""
+           ringColor="0">
+        <param value="1"/>
+        <param value="0"/>
+        <param value="1"/>
+        <param value="32"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="6" function="0" displayFunc="0" displayCustom="">
+        <param value="9"/>
+        <param value="1"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="13" function="2" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="1"/>
+        <param value="1"/>
+        <param value="1"/>
+        <param value="6"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="12" function="2" displayFunc="0" displayCustom="">
+        <param value="1"/>
+        <param value="0"/>
+        <param value="1"/>
+        <param value="32"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="5" function="1" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="12" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="1"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="12" function="2" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="10"/>
+        <param value="0"/>
+        <param value="1"/>
+        <param value="32"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+    <Switch>
+      <tap valid="1" category="0" function="0" displayFunc="0" displayCustom=""
+           ringColor="0">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </tap>
+      <hold valid="1" category="0" function="0" displayFunc="0" displayCustom="">
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <param value="0"/>
+        <layout-link link1="0" view1="1" link2="0" view2="1" link3="0" view3="1"/>
+      </hold>
+      <per-preset-override value="-1"/>
+    </Switch>
+  </FC-Layout>
+</FC-Layouts>
